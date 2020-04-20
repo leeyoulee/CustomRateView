@@ -6,5 +6,5 @@
 3 SnapKit 사용 
 
 # Mov
-<iframe src="https://www.youtube.com/watch?v=7l-rziRgm6o"></iframe>
+https://www.youtube.com/watch?v=7l-rziRgm6o
 
